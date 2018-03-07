@@ -105,8 +105,5 @@ class ProducterConsumer
 		t2.start();
 		t3.start();
 
-        System.out.println("OVER")
-
-
 	}
 }
